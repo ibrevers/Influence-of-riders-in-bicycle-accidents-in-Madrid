@@ -4,7 +4,7 @@ Capstone Project for the IBM Data Science Professional Certificate
 
 Isidro Brevers Gómez (ibrevers@gmail.com)
 
-Data - Table of Contents:
+Data - Content:
 
     1. Accidents2019.csv
         1.a) Estructura_DS_Accidentes_trafico_desde_2019
