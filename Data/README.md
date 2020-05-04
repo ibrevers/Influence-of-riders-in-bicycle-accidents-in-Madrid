@@ -6,9 +6,10 @@ Isidro Brevers Gómez (ibrevers@gmail.com)
 
 Data - Content:
 
-    1. Accidents2019.csv
-        1.a) Estructura_DS_Accidentes_trafico_desde_2019
-    2. Bicycle_Accidents.csv
-    3. Madrid_Geo.csv
-    4. Venues.csv
-    5. Venues_Summary.csv
+    Accidents2019.csv: information regarding traffic accidents in Madrid in 2019 downloaded from the Madrid’s Council open data website.
+    Estructura_DS_Accidentes_trafico_desde_2019: structure description of 'Accidents2019.csv'.
+    Bicycle_Accidents.csv: [df_accidents_summary]
+    Madrid_Geo.csv: [df_madrid_geo]
+    [Raw] Coords.xlsx
+    Venues.csv: [df_venues]
+    Venues_Summary.csv [df_venues_summary]
