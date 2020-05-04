@@ -6,4 +6,13 @@ Isidro Brevers Gómez (ibrevers@gmail.com)
 
 Table of Contents:
 
-    1. Report (part 1) - Introduction and purpose; Methodology; Data description and source
+    /Data: Data used in the project
+    /Visualization: Charts and maps outputs
+
+    1. Final report: Influence of riders in bicycle accidents in Madrid - Final report.pdf
+    2. Linkedin Blogpost: [*]
+    3. Notebooks:
+        Influence of riders in bicycle accidents in Madrid
+        Aux 1 Bicycle accidents in Madrid 2019 by district
+        Aux 4 Madrid venues -Foursquare API-
+    
